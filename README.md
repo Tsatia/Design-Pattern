@@ -1,2 +1,3 @@
 # Design-Pattern
-In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design.
+Compile all the files in `src` using the typescript compiler `tsc`.
+Now you can run a single file using `node patternName/fileName.js`.
